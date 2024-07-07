@@ -1,6 +1,11 @@
-Here's a `README.md` file for your `t3_switchchar` script. This file includes instructions on installation, configuration, and usage.
-
-### `README.md`
+```
+___________________         _________            .__        __          
+\__    ___/\_____  \       /   _____/ ___________|__|______/  |_  ______
+  |    |     _(__  <       \_____  \_/ ___\_  __ \  \____ \   __\/  ___/
+  |    |    /       \      /        \  \___|  | \/  |  |_> >  |  \___ \ 
+  |____|   /______  /     /_______  /\___  >__|  |__|   __/|__| /____  >
+                  \/              \/     \/         |__|             \/ 
+```
 
 ```markdown
 # t3_switchchar
